@@ -3,7 +3,7 @@
 echo $(pwd)
 
 echo "install dependencies"
-sudo apt install -y texlive \
+apt install -y texlive \
  texlive-extra-utils \
  texlive-xetex \
  texlive-bibtex-extra \
@@ -23,5 +23,5 @@ sudo apt install -y texlive \
  liblingua-en-numbers-ordinate-perl \
 
 # clone texml
-git clone git@github.com:AmerMathSoc/texml.git
+git clone https://github.com/AmerMathSoc/texml.git
 cp ./texml/cfg/texml.cfg.template ./texml/cfg/texml.cfg
