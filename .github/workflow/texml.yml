@@ -1,0 +1,19 @@
+on: [push]
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: xu-cheng/texlive-action@v3
+        with:
+          os: debian
+          run: |
+            # Install system dependencies
+            export DEBIAN_FRONTEND=noninteractive
+            apt-get update -y
+            apt-get install -y 
+            pdflatex main.tex
+      - uses: actions/upload-artifact@v4
+        with:
+        name: my-artifact
+        path: main.pdf
