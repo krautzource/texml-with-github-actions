@@ -11,8 +11,8 @@ jobs:
           os: debian
           run: |
             # Install system dependencies
-            sudo apt-get update -y
-            sudo ./github/workflows/texml.sh
+            apt-get update -y
+            ./github/workflows/texml.sh
             chmod a+x ./texml/bin/texml
             pdflatex main.tex
             ./texml/bin/texml main.tex
