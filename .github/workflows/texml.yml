@@ -12,7 +12,7 @@ jobs:
           run: |
             # Install system dependencies
             apt-get update -y
-            ./github/workflows/texml.sh
+            sh ./texml.sh
             chmod a+x ./texml/bin/texml
             pdflatex main.tex
             ./texml/bin/texml main.tex
