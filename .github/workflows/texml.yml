@@ -3,8 +3,7 @@ jobs:
   run_latex:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v5
+      - uses: actions/checkout@v5
         run: |
           export DEBIAN_FRONTEND=noninteractive
           apt-get update -y
