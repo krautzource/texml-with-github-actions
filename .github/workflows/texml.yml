@@ -1,6 +1,6 @@
 on: [push]
 jobs:
-    run latex
+  run latex:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
