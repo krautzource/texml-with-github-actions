@@ -4,7 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-        run: |
+      - run: |
           export DEBIAN_FRONTEND=noninteractive
           apt-get update -y
           apt-get install -y texlive-full
