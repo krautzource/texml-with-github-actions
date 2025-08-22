@@ -30,8 +30,6 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: thePDF
-      - name: commit with checkout
-        with:
           run: |
             git add main.pdf
             git commit -m "chore: main.pdf regenerated"
