@@ -1,6 +1,7 @@
 on: [push]
 jobs:
-  build_latex:
+  job1:
+    name: run latex
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -15,10 +16,21 @@ jobs:
             apt-get update -y
             apt-get install -y 
             pdflatex main.tex
+      - name: create artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: thePDF
+          path: main.pdf
+  job2:
+    name: commit PDF
+    runs-on: ubuntu-latest
+    steps:
+    - name: download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: thePDF
       - name: commit with checkout
         uses: actions/checkout@v5
-        with:
-          fetch-depth: 0 # Needed to compare with origin/main
           run: |
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
