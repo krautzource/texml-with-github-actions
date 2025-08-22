@@ -1,7 +1,6 @@
 on: [push]
 jobs:
-  job1:
-    name: run latex
+   run latex
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -21,20 +20,17 @@ jobs:
         with:
           name: thePDF
           path: main.pdf
-  job2:
-    name: commit PDF
-    runs-on: ubuntu-latest
-    steps:
-      - name: download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: thePDF
       - name: commit with checkout
         uses: actions/checkout@v5
         with:
           run: |
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: thePDF
+          run: |
             git add main.pdf
             git commit -m "chore: main.pdf regenerated"
             git push
