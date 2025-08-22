@@ -3,6 +3,8 @@ jobs:
   build_latex:
     runs-on: ubuntu-latest
     steps:
+      - name: checkout
+        uses: actions/checkout@v5
       - name: run texlive
         uses: xu-cheng/texlive-action@v3
         with:
