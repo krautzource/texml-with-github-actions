@@ -3,6 +3,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsthm}
+\usepackage{tikz}\usetikzlibrary{positioning,decorations.fractals,decorations.pathmorphing}
 
 
 \begin{document}
@@ -15,5 +16,14 @@
 \section{Well hello there}
 
 This is a simple test.
+
+
+\begin{equation} \label{tikzPic}
+    x = \begin{tikzpicture}[baseline=0pt]
+        \draw (-1.5,0) -- (1.5,0);
+        \draw (0,-1.5) -- (0,1.5);
+    \end{tikzpicture}
+\end{equation}
+    
 
 \end{document}
