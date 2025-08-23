@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//AMS TEXML//DTD MODIFIED JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3d2 20201130//EN" "texml-jats-1-3d2.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front id="ltxid1">
+    <article-meta>
+      <title-group>
+        <article-title>Hello World</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author">
+          <string-name>Peter Krautzberger</string-name>
+        </contrib>
+      </contrib-group>
+      <history>
+        <date date-type="xml-last-modified" iso-8601-date="2025-08-23T13:17:37Z">
+          <string-date>2025-08-23T13:17:37Z</string-date>
+        </date>
+      </history>
+    </article-meta>
+  </front>
+  <body id="ltxid2">
+    <sec disp-level="1" id="ltxid3" specific-use="section">
+      <label>1<x>.</x></label>
+      <title>Well hello there</title>
+      <p>This is a simple test.</p>
+    </sec>
+  </body>
+</article>
