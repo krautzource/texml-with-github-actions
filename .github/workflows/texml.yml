@@ -10,7 +10,7 @@ jobs:
           # Install texml
           sudo apt-get update -y
           sudo sh ./texml.sh
-          chmod a+x ./texml/bin/texml
+          sudo chmod a+x ./texml/bin/texml
       - run: |
           # run texml
           pdflatex main.tex
