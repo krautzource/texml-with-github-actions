@@ -21,6 +21,7 @@ apt install -y texlive \
  libimage-info-perl \
  pdf2svg \
  liblingua-en-numbers-ordinate-perl \
+ libfile-mmagic-xs-perl \
 
 # clone texml
 git clone https://github.com/AmerMathSoc/texml.git
