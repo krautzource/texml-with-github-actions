@@ -23,6 +23,12 @@ apt install -y texlive \
  liblingua-en-numbers-ordinate-perl \
  libfile-mmagic-xs-perl \
 
+# install fonts (for svg generation)
+
+mkdir ~/texmf
+cp -r ./fonts/ ~/texmf
+texhash ~/texmf
+
 # clone texml
 git clone https://github.com/AmerMathSoc/texml.git
 cp ./texml/cfg/texml.cfg.template ./texml/cfg/texml.cfg
