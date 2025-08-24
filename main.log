@@ -1,0 +1,1304 @@
+This is AMS texml <https://github.com/AmerMathSoc/texml>  Sun Aug 24 11:42:08 2025
+**
+(main.tex (/home/runner/work/texml-with-github-actions/texml-with-github-actions/texml/bin/../lib/perl/TeX/Interpreter/FMT/laTeXML.fmt) (TeX::Interpreter::LaTeX
+Loading package 'LTfntcmd'
+(TeX::Interpreter::LaTeX::Package::LTfntcmd
+Package: LTfntcmd 
+LaTeX Info: Redefining \textsl on input line 14.
+LaTeX Info: Redefining \textup on input line 37.
+LaTeX Info: Redefining \textrm on input line 43.
+LaTeX Info: Redefining \textnormal on input line 44.
+LaTeX Info: Redefining \textsc on input line 45.
+LaTeX Info: Redefining \textbf on input line 46.
+LaTeX Info: Redefining \texttt on input line 47.
+LaTeX Info: Redefining \textit on input line 48.
+LaTeX Info: Redefining \textsf on input line 49.
+LaTeX Info: Redefining \underline on input line 51.
+LaTeX Info: Redefining \textsuperscript on input line 52.
+LaTeX Info: Redefining \textsubscript on input line 53.
+LaTeX Info: Redefining \emph on input line 62.
+)
+Loading package 'LTref'
+(TeX::Interpreter::LaTeX::Package::LTref
+Package: LTref 
+\c@xmlid=\count73
+)
+Loading package 'LTboxes'
+(TeX::Interpreter::LaTeX::Package::LTboxes
+Package: LTboxes 
+LaTeX Info: Redefining \parbox on input line 32.
+)
+Loading package 'LTtab'
+(TeX::Interpreter::LaTeX::Package::LTtab
+Package: LTtab 
+\c@TBLRid=\count74
+\@paddingleft=\dimen89
+\@paddingright=\dimen90
+\extra@paddingright=\dimen91
+\html@tabskip=\dimen92
+\html@next@tabskip=\dimen93
+\tab@class=\count75
+\tab@subclass=\count76
+\tab@prevclass=\count77
+\tab@prevsubclass=\count78
+\tab@penultclass=\count79
+\tab@penultsubclass=\count80
+\NC@list=\toks14
+)
+Loading package 'LTsect'
+(TeX::Interpreter::LaTeX::Package::LTsect
+Package: LTsect 
+)
+Loading package 'LTfloat'
+(TeX::Interpreter::LaTeX::Package::LTfloat
+Package: LTfloat 
+)
+Loading package 'DisablePackages'
+(TeX::Interpreter::LaTeX::Package::DisablePackages
+Package: DisablePackages 
+)
+Loading package 'Diacritics'
+Loading package 'TeXMLCreateSVG'
+)) (TeX::Interpreter::LaTeX::Class::amsart
+Document Class: amsart 
+\c@section=\count81
+\c@figure=\count82
+\c@table=\count83
+Can't find PRD::MSC: MSC titles will be missing (TeX::Interpreter::LaTeX::Class::amsclass
+Document Class: amsclass 
+(TeX::Interpreter::LaTeX::Package::AMStoc
+Package: AMStoc 
+)
+Loading package 'OLDfont'
+(TeX::Interpreter::LaTeX::Package::OLDfont
+Package: OLDfont 
+)
+Loading package 'amsmath'
+(TeX::Interpreter::LaTeX::Package::amsmath
+Package: amsmath 
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip41
+For additional information on amsmath, use the `?' option.
+Loading package 'amstext'
+(TeX::Interpreter::LaTeX::Package::amstext
+Package: amstext 
+)
+Loading package 'amsbsy'
+(TeX::Interpreter::LaTeX::Package::amsbsy
+Package: amsbsy 
+)
+Loading package 'amsopn'
+(TeX::Interpreter::LaTeX::Package::amsopn
+Package: amsopn 1999/12/14 v2.01 operator names
+Loading package 'amsgen'
+(TeX::Interpreter::LaTeX::Package::amsgen
+Package: amsgen 
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen94
+)))
+\inf@bad=\count84
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count85
+\leftroot@=\count86
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count87
+\DOTSCASE@=\count88
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+\Mathstrutbox@=\box22
+\strutbox@=\box23
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen95
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+
+Package amsmath Warning: Unable to redefine math accent \hat.
+
+
+Package amsmath Warning: Unable to redefine math accent \check.
+
+
+Package amsmath Warning: Unable to redefine math accent \tilde.
+
+
+Package amsmath Warning: Unable to redefine math accent \acute.
+
+
+Package amsmath Warning: Unable to redefine math accent \grave.
+
+
+Package amsmath Warning: Unable to redefine math accent \dot.
+
+
+Package amsmath Warning: Unable to redefine math accent \ddot.
+
+
+Package amsmath Warning: Unable to redefine math accent \breve.
+
+
+Package amsmath Warning: Unable to redefine math accent \bar.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+
+Package amsmath Warning: Unable to redefine math accent \mathring.
+
+\macc@depth=\count89
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 932.
+\c@MaxMatrixCols=\count90
+\dotsspace@=\muskip10
+\c@parentequation=\count91
+\dspbrk@lvl=\count92
+\tag@help=\toks16
+\row@=\count93
+\column@=\count94
+\maxfields@=\count95
+\andhelp@=\toks17
+\eqnshift@=\dimen96
+\alignsep@=\dimen97
+\tagshift@=\dimen98
+\tagwidth@=\dimen99
+\totwidth@=\dimen100
+\lineht@=\dimen101
+\@envbody=\toks18
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\@tempmu=\muskip11
+LaTeX Info: Redefining \tmspace on input line 19.
+LaTeX Info: Redefining \eqref on input line 31.
+)
+Loading package 'upref'
+(TeX::Interpreter::LaTeX::Package::upref
+Package: upref 2010/10/01 v2.05
+)
+Loading package 'amsthm'
+(TeX::Interpreter::LaTeX::Package::amsthm
+Package: amsthm 
+\thm@style=\toks20
+\thm@headpunct=\toks21
+)
+Loading package 'amsfonts'
+(TeX::Interpreter::LaTeX::Package::amsfonts
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support (texml)
+\symAMSa=\mathgroup0
+\symAMSb=\mathgroup1
+Loading package 'unicode_math'
+(TeX::Interpreter::LaTeX::Package::unicode_math
+Package: unicode_math 
+Loading package 'fontspec'
+(TeX::Interpreter::LaTeX::Package::fontspec
+Package: fontspec 
+))
+Loading package 'latexsym'
+(TeX::Interpreter::LaTeX::Package::latexsym
+Package: latexsym 
+))
+Loading package 'xspace'
+(TeX::Interpreter::LaTeX::Package::xspace
+Package: xspace 
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+))
+Loading package 'graphicx'
+(TeX::Interpreter::LaTeX::Package::graphicx
+Package: graphicx 
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+Loading package 'graphics'
+(TeX::Interpreter::LaTeX::Package::graphics
+Package: graphics 
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+Package graphics Info: Driver file: texml.def on input line 107.
+(./texml/lib/texmf/tex/latex/texml/texml.def
+File: texml.def 2022/09/07 v1.0 Graphics/color driver for texml
+))
+\Gin@nat@width=\dimen102
+\Gin@nat@height=\dimen103
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+))
+Loading package 'AMSmetadata'
+Can't find private AMS modules: Disabling extended metadata support
+(TeX::Interpreter::LaTeX::Package::AMSmetadata
+Package: AMSmetadata 
+)
+LaTeX Info: Redefining \Tiny on input line 95.
+LaTeX Info: Redefining \tiny on input line 96.
+LaTeX Info: Redefining \small on input line 99.
+LaTeX Info: Redefining \large on input line 104.
+LaTeX Info: Redefining \Large on input line 105.
+LaTeX Info: Redefining \LARGE on input line 106.
+LaTeX Info: Redefining \huge on input line 107.
+LaTeX Info: Redefining \Huge on input line 108.
+\c@part=\count96
+\c@subsection=\count97
+\c@subsubsection=\count98
+\c@paragraph=\count99
+\c@subparagraph=\count100
+Loading package 'float'
+(TeX::Interpreter::LaTeX::Package::float
+Package: float 
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks23
+\float@box=\box24
+\@float@everytoks=\toks24
+\@floatcapt=\box25
+))
+\@float@every@figure=\toks25
+\@float@every@table=\toks26
+))
+Loading package 'amssymb'
+(TeX::Interpreter::LaTeX::Package::amssymb
+Package: amssymb 
+)
+Loading package 'tikz'
+(TeX::Interpreter::LaTeX::Package::tikz
+Package: tikz 
+Loading package 'pgf'
+(TeX::Interpreter::LaTeX::Package::pgf
+Package: pgf 
+Loading package 'color'
+(TeX::Interpreter::LaTeX::Package::color
+Package: color 
+Loading package 'xcolor'
+(TeX::Interpreter::LaTeX::Package::xcolor
+Package: xcolor 
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 153> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 154> 
+                                                                   \DeclareKeys
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 193> 
+                                                                   \XC@declarenames{dvipsnames}{dvipsnam}{\let\colornameprefix\@empty}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 193> 
+                                                                   \XC@declarenames{dvipsnames}{dvipsnam}{\let\colornameprefix\@empty}
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 22> 
+                                                                      \DefineNamedColor{named}{GreenYellow}   {cmyk}{0.15,0,0.69,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 23> 
+                                                                      \DefineNamedColor{named}{Yellow}        {cmyk}{0,0,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 24> 
+                                                                      \DefineNamedColor{named}{Goldenrod}     {cmyk}{0,0.10,0.84,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 25> 
+                                                                      \DefineNamedColor{named}{Dandelion}     {cmyk}{0,0.29,0.84,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 26> 
+                                                                      \DefineNamedColor{named}{Apricot}       {cmyk}{0,0.32,0.52,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 27> 
+                                                                      \DefineNamedColor{named}{Peach}         {cmyk}{0,0.50,0.70,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 28> 
+                                                                      \DefineNamedColor{named}{Melon}         {cmyk}{0,0.46,0.50,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 29> 
+                                                                      \DefineNamedColor{named}{YellowOrange}  {cmyk}{0,0.42,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 30> 
+                                                                      \DefineNamedColor{named}{Orange}        {cmyk}{0,0.61,0.87,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 31> 
+                                                                      \DefineNamedColor{named}{BurntOrange}   {cmyk}{0,0.51,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 32> 
+                                                                      \DefineNamedColor{named}{Bittersweet}   {cmyk}{0,0.75,1,0.24}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 33> 
+                                                                      \DefineNamedColor{named}{RedOrange}     {cmyk}{0,0.77,0.87,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 34> 
+                                                                      \DefineNamedColor{named}{Mahogany}      {cmyk}{0,0.85,0.87,0.35}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 35> 
+                                                                      \DefineNamedColor{named}{Maroon}        {cmyk}{0,0.87,0.68,0.32}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 36> 
+                                                                      \DefineNamedColor{named}{BrickRed}      {cmyk}{0,0.89,0.94,0.28}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 37> 
+                                                                      \DefineNamedColor{named}{Red}           {cmyk}{0,1,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 38> 
+                                                                      \DefineNamedColor{named}{OrangeRed}     {cmyk}{0,1,0.50,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 39> 
+                                                                      \DefineNamedColor{named}{RubineRed}     {cmyk}{0,1,0.13,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 40> 
+                                                                      \DefineNamedColor{named}{WildStrawberry}{cmyk}{0,0.96,0.39,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 41> 
+                                                                      \DefineNamedColor{named}{Salmon}        {cmyk}{0,0.53,0.38,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 42> 
+                                                                      \DefineNamedColor{named}{CarnationPink} {cmyk}{0,0.63,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 43> 
+                                                                      \DefineNamedColor{named}{Magenta}       {cmyk}{0,1,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 44> 
+                                                                      \DefineNamedColor{named}{VioletRed}     {cmyk}{0,0.81,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 45> 
+                                                                      \DefineNamedColor{named}{Rhodamine}     {cmyk}{0,0.82,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 46> 
+                                                                      \DefineNamedColor{named}{Mulberry}      {cmyk}{0.34,0.90,0,0.02}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 47> 
+                                                                      \DefineNamedColor{named}{RedViolet}     {cmyk}{0.07,0.90,0,0.34}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 48> 
+                                                                      \DefineNamedColor{named}{Fuchsia}       {cmyk}{0.47,0.91,0,0.08}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 49> 
+                                                                      \DefineNamedColor{named}{Lavender}      {cmyk}{0,0.48,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 50> 
+                                                                      \DefineNamedColor{named}{Thistle}       {cmyk}{0.12,0.59,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 51> 
+                                                                      \DefineNamedColor{named}{Orchid}        {cmyk}{0.32,0.64,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 52> 
+                                                                      \DefineNamedColor{named}{DarkOrchid}    {cmyk}{0.40,0.80,0.20,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 53> 
+                                                                      \DefineNamedColor{named}{Purple}        {cmyk}{0.45,0.86,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 54> 
+                                                                      \DefineNamedColor{named}{Plum}          {cmyk}{0.50,1,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 55> 
+                                                                      \DefineNamedColor{named}{Violet}        {cmyk}{0.79,0.88,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 56> 
+                                                                      \DefineNamedColor{named}{RoyalPurple}   {cmyk}{0.75,0.90,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 57> 
+                                                                      \DefineNamedColor{named}{BlueViolet}    {cmyk}{0.86,0.91,0,0.04}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 58> 
+                                                                      \DefineNamedColor{named}{Periwinkle}    {cmyk}{0.57,0.55,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 59> 
+                                                                      \DefineNamedColor{named}{CadetBlue}     {cmyk}{0.62,0.57,0.23,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 60> 
+                                                                      \DefineNamedColor{named}{CornflowerBlue}{cmyk}{0.65,0.13,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 61> 
+                                                                      \DefineNamedColor{named}{MidnightBlue}  {cmyk}{0.98,0.13,0,0.43}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 62> 
+                                                                      \DefineNamedColor{named}{NavyBlue}      {cmyk}{0.94,0.54,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 63> 
+                                                                      \DefineNamedColor{named}{RoyalBlue}     {cmyk}{1,0.50,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 64> 
+                                                                      \DefineNamedColor{named}{Blue}          {cmyk}{1,1,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 65> 
+                                                                      \DefineNamedColor{named}{Cerulean}      {cmyk}{0.94,0.11,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 66> 
+                                                                      \DefineNamedColor{named}{Cyan}          {cmyk}{1,0,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 67> 
+                                                                      \DefineNamedColor{named}{ProcessBlue}   {cmyk}{0.96,0,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 68> 
+                                                                      \DefineNamedColor{named}{SkyBlue}       {cmyk}{0.62,0,0.12,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 69> 
+                                                                      \DefineNamedColor{named}{Turquoise}     {cmyk}{0.85,0,0.20,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 70> 
+                                                                      \DefineNamedColor{named}{TealBlue}      {cmyk}{0.86,0,0.34,0.02}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 71> 
+                                                                      \DefineNamedColor{named}{Aquamarine}    {cmyk}{0.82,0,0.30,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 72> 
+                                                                      \DefineNamedColor{named}{BlueGreen}     {cmyk}{0.85,0,0.33,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 73> 
+                                                                      \DefineNamedColor{named}{Emerald}       {cmyk}{1,0,0.50,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 74> 
+                                                                      \DefineNamedColor{named}{JungleGreen}   {cmyk}{0.99,0,0.52,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 75> 
+                                                                      \DefineNamedColor{named}{SeaGreen}      {cmyk}{0.69,0,0.50,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 76> 
+                                                                      \DefineNamedColor{named}{Green}         {cmyk}{1,0,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 77> 
+                                                                      \DefineNamedColor{named}{ForestGreen}   {cmyk}{0.91,0,0.88,0.12}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 78> 
+                                                                      \DefineNamedColor{named}{PineGreen}     {cmyk}{0.92,0,0.59,0.25}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 79> 
+                                                                      \DefineNamedColor{named}{LimeGreen}     {cmyk}{0.50,0,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 80> 
+                                                                      \DefineNamedColor{named}{YellowGreen}   {cmyk}{0.44,0,0.74,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 81> 
+                                                                      \DefineNamedColor{named}{SpringGreen}   {cmyk}{0.26,0,0.76,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 82> 
+                                                                      \DefineNamedColor{named}{OliveGreen}    {cmyk}{0.64,0,0.95,0.40}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 83> 
+                                                                      \DefineNamedColor{named}{RawSienna}     {cmyk}{0,0.72,1,0.45}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 84> 
+                                                                      \DefineNamedColor{named}{Sepia}         {cmyk}{0,0.83,1,0.70}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 85> 
+                                                                      \DefineNamedColor{named}{Brown}         {cmyk}{0,0.81,1,0.60}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 86> 
+                                                                      \DefineNamedColor{named}{Tan}           {cmyk}{0.14,0.42,0.56,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 87> 
+                                                                      \DefineNamedColor{named}{Gray}          {cmyk}{0,0,0,0.50}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 88> 
+                                                                      \DefineNamedColor{named}{Black}         {cmyk}{0,0,0,1}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 89> 
+                                                                      \DefineNamedColor{named}{White}         {cmyk}{0,0,0,0}
+
+)
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 193> 
+                                                                   \endinput
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 193> 
+                                                                   \endinput
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 22> 
+                                                                      \DefineNamedColor{named}{GreenYellow}   {cmyk}{0.15,0,0.69,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 23> 
+                                                                      \DefineNamedColor{named}{Yellow}        {cmyk}{0,0,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 24> 
+                                                                      \DefineNamedColor{named}{Goldenrod}     {cmyk}{0,0.10,0.84,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 25> 
+                                                                      \DefineNamedColor{named}{Dandelion}     {cmyk}{0,0.29,0.84,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 26> 
+                                                                      \DefineNamedColor{named}{Apricot}       {cmyk}{0,0.32,0.52,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 27> 
+                                                                      \DefineNamedColor{named}{Peach}         {cmyk}{0,0.50,0.70,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 28> 
+                                                                      \DefineNamedColor{named}{Melon}         {cmyk}{0,0.46,0.50,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 29> 
+                                                                      \DefineNamedColor{named}{YellowOrange}  {cmyk}{0,0.42,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 30> 
+                                                                      \DefineNamedColor{named}{Orange}        {cmyk}{0,0.61,0.87,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 31> 
+                                                                      \DefineNamedColor{named}{BurntOrange}   {cmyk}{0,0.51,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 32> 
+                                                                      \DefineNamedColor{named}{Bittersweet}   {cmyk}{0,0.75,1,0.24}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 33> 
+                                                                      \DefineNamedColor{named}{RedOrange}     {cmyk}{0,0.77,0.87,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 34> 
+                                                                      \DefineNamedColor{named}{Mahogany}      {cmyk}{0,0.85,0.87,0.35}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 35> 
+                                                                      \DefineNamedColor{named}{Maroon}        {cmyk}{0,0.87,0.68,0.32}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 36> 
+                                                                      \DefineNamedColor{named}{BrickRed}      {cmyk}{0,0.89,0.94,0.28}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 37> 
+                                                                      \DefineNamedColor{named}{Red}           {cmyk}{0,1,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 38> 
+                                                                      \DefineNamedColor{named}{OrangeRed}     {cmyk}{0,1,0.50,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 39> 
+                                                                      \DefineNamedColor{named}{RubineRed}     {cmyk}{0,1,0.13,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 40> 
+                                                                      \DefineNamedColor{named}{WildStrawberry}{cmyk}{0,0.96,0.39,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 41> 
+                                                                      \DefineNamedColor{named}{Salmon}        {cmyk}{0,0.53,0.38,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 42> 
+                                                                      \DefineNamedColor{named}{CarnationPink} {cmyk}{0,0.63,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 43> 
+                                                                      \DefineNamedColor{named}{Magenta}       {cmyk}{0,1,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 44> 
+                                                                      \DefineNamedColor{named}{VioletRed}     {cmyk}{0,0.81,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 45> 
+                                                                      \DefineNamedColor{named}{Rhodamine}     {cmyk}{0,0.82,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 46> 
+                                                                      \DefineNamedColor{named}{Mulberry}      {cmyk}{0.34,0.90,0,0.02}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 47> 
+                                                                      \DefineNamedColor{named}{RedViolet}     {cmyk}{0.07,0.90,0,0.34}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 48> 
+                                                                      \DefineNamedColor{named}{Fuchsia}       {cmyk}{0.47,0.91,0,0.08}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 49> 
+                                                                      \DefineNamedColor{named}{Lavender}      {cmyk}{0,0.48,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 50> 
+                                                                      \DefineNamedColor{named}{Thistle}       {cmyk}{0.12,0.59,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 51> 
+                                                                      \DefineNamedColor{named}{Orchid}        {cmyk}{0.32,0.64,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 52> 
+                                                                      \DefineNamedColor{named}{DarkOrchid}    {cmyk}{0.40,0.80,0.20,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 53> 
+                                                                      \DefineNamedColor{named}{Purple}        {cmyk}{0.45,0.86,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 54> 
+                                                                      \DefineNamedColor{named}{Plum}          {cmyk}{0.50,1,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 55> 
+                                                                      \DefineNamedColor{named}{Violet}        {cmyk}{0.79,0.88,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 56> 
+                                                                      \DefineNamedColor{named}{RoyalPurple}   {cmyk}{0.75,0.90,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 57> 
+                                                                      \DefineNamedColor{named}{BlueViolet}    {cmyk}{0.86,0.91,0,0.04}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 58> 
+                                                                      \DefineNamedColor{named}{Periwinkle}    {cmyk}{0.57,0.55,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 59> 
+                                                                      \DefineNamedColor{named}{CadetBlue}     {cmyk}{0.62,0.57,0.23,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 60> 
+                                                                      \DefineNamedColor{named}{CornflowerBlue}{cmyk}{0.65,0.13,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 61> 
+                                                                      \DefineNamedColor{named}{MidnightBlue}  {cmyk}{0.98,0.13,0,0.43}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 62> 
+                                                                      \DefineNamedColor{named}{NavyBlue}      {cmyk}{0.94,0.54,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 63> 
+                                                                      \DefineNamedColor{named}{RoyalBlue}     {cmyk}{1,0.50,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 64> 
+                                                                      \DefineNamedColor{named}{Blue}          {cmyk}{1,1,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 65> 
+                                                                      \DefineNamedColor{named}{Cerulean}      {cmyk}{0.94,0.11,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 66> 
+                                                                      \DefineNamedColor{named}{Cyan}          {cmyk}{1,0,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 67> 
+                                                                      \DefineNamedColor{named}{ProcessBlue}   {cmyk}{0.96,0,0,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 68> 
+                                                                      \DefineNamedColor{named}{SkyBlue}       {cmyk}{0.62,0,0.12,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 69> 
+                                                                      \DefineNamedColor{named}{Turquoise}     {cmyk}{0.85,0,0.20,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 70> 
+                                                                      \DefineNamedColor{named}{TealBlue}      {cmyk}{0.86,0,0.34,0.02}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 71> 
+                                                                      \DefineNamedColor{named}{Aquamarine}    {cmyk}{0.82,0,0.30,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 72> 
+                                                                      \DefineNamedColor{named}{BlueGreen}     {cmyk}{0.85,0,0.33,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 73> 
+                                                                      \DefineNamedColor{named}{Emerald}       {cmyk}{1,0,0.50,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 74> 
+                                                                      \DefineNamedColor{named}{JungleGreen}   {cmyk}{0.99,0,0.52,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 75> 
+                                                                      \DefineNamedColor{named}{SeaGreen}      {cmyk}{0.69,0,0.50,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 76> 
+                                                                      \DefineNamedColor{named}{Green}         {cmyk}{1,0,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 77> 
+                                                                      \DefineNamedColor{named}{ForestGreen}   {cmyk}{0.91,0,0.88,0.12}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 78> 
+                                                                      \DefineNamedColor{named}{PineGreen}     {cmyk}{0.92,0,0.59,0.25}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 79> 
+                                                                      \DefineNamedColor{named}{LimeGreen}     {cmyk}{0.50,0,1,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 80> 
+                                                                      \DefineNamedColor{named}{YellowGreen}   {cmyk}{0.44,0,0.74,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 81> 
+                                                                      \DefineNamedColor{named}{SpringGreen}   {cmyk}{0.26,0,0.76,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 82> 
+                                                                      \DefineNamedColor{named}{OliveGreen}    {cmyk}{0.64,0,0.95,0.40}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 83> 
+                                                                      \DefineNamedColor{named}{RawSienna}     {cmyk}{0,0.72,1,0.45}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 84> 
+                                                                      \DefineNamedColor{named}{Sepia}         {cmyk}{0,0.83,1,0.70}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 85> 
+                                                                      \DefineNamedColor{named}{Brown}         {cmyk}{0,0.81,1,0.60}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 86> 
+                                                                      \DefineNamedColor{named}{Tan}           {cmyk}{0.14,0.42,0.56,0}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 87> 
+                                                                      \DefineNamedColor{named}{Gray}          {cmyk}{0,0,0,0.50}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 88> 
+                                                                      \DefineNamedColor{named}{Black}         {cmyk}{0,0,0,1}
+
+! Undefined control sequence '\DefineNamedColor '.
+/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def, l. 89> 
+                                                                      \DefineNamedColor{named}{White}         {cmyk}{0,0,0,0}
+
+)
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 193> 
+                                                                   \endinput
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 194> 
+                                                                   \XC@declarenames{svgnames}{svgnam}{}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 194> 
+                                                                   \XC@declarenames{svgnames}{svgnam}{}
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2023/11/15 v3.01 Predefined colors according to SVG 1.1 (UK)
+! Undefined control sequence '\preparecolorset '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def, l. 34> 
+                                                                  \preparecolorset{rgb}{}{}{%
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def, l. 34> 
+                                                                  \preparecolorset{rgb}{}{}{%
+
+)
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 194> 
+                                                                   \endinput
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 194> 
+                                                                   \endinput
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2023/11/15 v3.01 Predefined colors according to SVG 1.1 (UK)
+! Undefined control sequence '\preparecolorset '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def, l. 34> 
+                                                                  \preparecolorset{rgb}{}{}{%
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/svgnam.def, l. 34> 
+                                                                  \preparecolorset{rgb}{}{}{%
+
+)
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 194> 
+                                                                   \endinput
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 195> 
+                                                                   \XC@declarenames{x11names}{x11nam}{}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 195> 
+                                                                   \XC@declarenames{x11names}{x11nam}{}
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/x11nam.def
+File: x11nam.def 2023/11/15 v3.01 Predefined colors according to Unix/X11 (UK)
+! Undefined control sequence '\preparecolorset '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/x11nam.def, l. 34> 
+                                                                  \preparecolorset{rgb}{}{}{%
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/x11nam.def, l. 34> 
+                                                                  \preparecolorset{rgb}{}{}{%
+
+)
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 195> 
+                                                                   \endinput
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 195> 
+                                                                   \endinput
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/x11nam.def
+File: x11nam.def 2023/11/15 v3.01 Predefined colors according to Unix/X11 (UK)
+! Undefined control sequence '\preparecolorset '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/x11nam.def, l. 34> 
+                                                                  \preparecolorset{rgb}{}{}{%
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/x11nam.def, l. 34> 
+                                                                  \preparecolorset{rgb}{}{}{%
+
+)
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 195> 
+                                                                   \endinput
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Missing number, treated as zero.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Undefined control sequence '\paperquality '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Missing number, treated as zero.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+
+! LaTeX Error: File `hks\paperquality knam.def' not found: Continuing without it.
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Missing number, treated as zero.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Undefined control sequence '\paperquality '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Missing number, treated as zero.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+
+! LaTeX Error: File `hks\paperquality knam.def' not found: Continuing without it.
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 197> 
+                                                                    {hks\ifcase\paperquality k\or n\or k\or z\else n\fi nam}{}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 198> 
+                                                                   \XC@declarenames{pmsnames}{pmsnam}{}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 198> 
+                                                                   \XC@declarenames{pmsnames}{pmsnam}{}
+
+
+! LaTeX Error: File `pmsnam.def' not found: Continuing without it.
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 198> 
+                                                                   \XC@declarenames{pmsnames}{pmsnam}{}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 198> 
+                                                                   \XC@declarenames{pmsnames}{pmsnam}{}
+
+
+! LaTeX Error: File `pmsnam.def' not found: Continuing without it.
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 198> 
+                                                                   \XC@declarenames{pmsnames}{pmsnam}{}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 199> 
+                                                                   \XC@declarenames{ralnames}{ralnam}{}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 199> 
+                                                                   \XC@declarenames{ralnames}{ralnam}{}
+
+
+! LaTeX Error: File `ralnam.def' not found: Continuing without it.
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 199> 
+                                                                   \XC@declarenames{ralnames}{ralnam}{}
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 199> 
+                                                                   \XC@declarenames{ralnames}{ralnam}{}
+
+
+! LaTeX Error: File `ralnam.def' not found: Continuing without it.
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 199> 
+                                                                   \XC@declarenames{ralnames}{ralnam}{}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 200> 
+                                                                   \DeclareKeys
+
+! Undefined control sequence '\AddToHook '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 202> 
+                                                                       table .code  ={\AddToHook{package/xcolor/after}{\RequirePackage{colortbl}}}
+
+Loading package 'colortbl'
+(TeX::Interpreter::LaTeX::Package::colortbl
+Package: colortbl 
+Loading package 'array'
+(TeX::Interpreter::LaTeX::Package::array
+Package: array 
+\extrarowheight=\skip44
+))
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 203> 
+                                                                      ,table .usage = preamble
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 215> 
+                                                                     \@@tmp}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 216> 
+                                                                   \DeclareKeys
+
+! Undefined control sequence '\SetKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 218> 
+                                                                     ,dviwindo .code   = {\SetKeys{dvipsone}}
+
+! Undefined control sequence '\SetKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 220> 
+                                                                     ,oztex    .code   = {\SetKeys{dvips}}
+
+! Undefined control sequence '\SetKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 222> 
+                                                                     ,xdvi     .code   = {\SetKeys{dvips,monochrome}}
+
+! Undefined control sequence '\SetKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 224> 
+                                                                     ,dvipdfm  .code   = {\SetKeys{dvipdfmx}}
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 227> 
+                                                                   \DeclareKeys
+
+! Undefined control sequence '\DeclareKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 243> 
+                                                                   \DeclareKeys
+
+
+Package xcolor Warning: Package option `usenames' is obsolete and ignored on input line 246.
+
+
+Package xcolor Warning: Package option `hyperref' is obsolete and ignored on input line 249.
+
+
+Package xcolor Warning: Package option `fixpdftex' is obsolete and ignored on input line 252.
+
+! Undefined control sequence '\SetKeys '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 258> 
+                                                                   \SetKeys{natural,showerrors}
+
+! Undefined control sequence '\ExplSyntaxOn '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 260> 
+                                                                   \ExplSyntaxOn
+
+! Undefined control sequence '\ExplSyntaxOff '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 262> 
+                                                                   \ExplSyntaxOff
+
+! Undefined control sequence '\ProcessKeyOptions '.
+/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty, l. 265> 
+                                                                   \ProcessKeyOptions
+
+Package xcolor Info: Driver file: texml.def on input line 274.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+))))) (main.aux)
+LaTeX Info: Redefining \overline on input line 9.
+LaTeX Info: The control sequence `\dddot' is already robust on input line 9.
+LaTeX Info: The control sequence `\ddddot' is already robust on input line 9.
+LaTeX Info: The control sequence `\overleftrightarrow' is already robust on input line 9.
+LaTeX Info: The control sequence `\underrightarrow' is already robust on input line 9.
+LaTeX Info: The control sequence `\underleftarrow' is already robust on input line 9.
+LaTeX Info: The control sequence `\underleftrightarrow' is already robust on input line 9.
+Entering <front>
+Exiting <front>
+Entering <body>
+section 1
+! Could not generate SVG: 'xelatex' failed!
+! Working files will be left in texml-svg-6uv_wF.
+main.tex, l. 25> 
+                     \end{tikzpicture}
+
+
+LaTeX Warning: Label `tikzPic' multiply defined: changed from '{1}{1}{}{}{}' to '{1}{tikzPic}{disp-formula}{equation}'.
+
+Exiting <body>
+(main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Resolving \ref's and \cite's
+Resolved 0 references and 0 cites
+Resolving <xref-group>s
+
+
