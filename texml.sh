@@ -25,9 +25,9 @@ apt install -y texlive \
 
 # install fonts (for svg generation)
 
-mkdir ~/texmf
-cp -r ./fonts/ ~/texmf
-texhash ~/texmf
+mkdir -p "$HOME/.local/share/fonts/"
+cp -r ./fonts/ "$HOME/.local/share/fonts/"
+fc-cache -fv
 
 # clone texml
 git clone https://github.com/AmerMathSoc/texml.git
