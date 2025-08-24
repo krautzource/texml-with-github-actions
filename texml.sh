@@ -27,7 +27,10 @@ apt install -y texlive \
 
 mkdir -p "$HOME/texmf"
 cp -r ./fonts/ "$HOME/texmf"
+ls "$HOME/texmf"
+texhash --version
 texhash "$HOME/texmf"
+texhash ./fonts
 fc-cache -fv
 
 # clone texml
