@@ -1,4 +1,4 @@
-This is AMS texml <https://github.com/AmerMathSoc/texml>  Sun Aug 24 15:25:26 2025
+This is AMS texml <https://github.com/AmerMathSoc/texml>  Sun Aug 24 15:44:16 2025
 **
 (main.tex (/home/runner/work/texml-with-github-actions/texml-with-github-actions/texml/bin/../lib/perl/TeX/Interpreter/FMT/laTeXML.fmt) (TeX::Interpreter::LaTeX
 Loading package 'LTfntcmd'
@@ -1285,7 +1285,7 @@ Exiting <front>
 Entering <body>
 section 1
 ! Could not generate SVG: 'xelatex' failed!
-! Working files will be left in texml-svg-6sU0j7.
+! Working files will be left in texml-svg-fHjWz_.
 main.tex, l. 25> 
                      \end{tikzpicture}
 
