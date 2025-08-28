@@ -27,6 +27,7 @@ apt install -y texlive \
 
 mkdir -p "$HOME/texmf"
 cp -r ./fonts/ "$HOME/texmf"
+cp -r ./fonts/ "$HOME"
 ls "$HOME/texmf"
 texhash --version
 texhash "$HOME/texmf"
