@@ -18,8 +18,8 @@
         </contrib>
       </contrib-group>
       <history>
-        <date date-type="xml-last-modified" iso-8601-date="2025-08-28T18:39:47Z">
-          <string-date>2025-08-28T18:39:47Z</string-date>
+        <date date-type="xml-last-modified" iso-8601-date="2025-08-28T18:49:48Z">
+          <string-date>2025-08-28T18:49:48Z</string-date>
         </date>
       </history>
     </article-meta>
@@ -31,7 +31,7 @@
       <p>This is a simple test.</p>
       <p><disp-formula content-type="math/tex">
           <tex-math>\begin{equation}
-  x = <MISSING_SVG_GRAPHIC/> <target id="tikzPic"><tag parens="yes">1</tag></target>
+  x = <inline-graphic height="86pt" mimetype="image/svg+xml" width="86pt" xlink:href="Images/imgfa9262243fe836a009d1b555c3b44123.svg"/> <target id="tikzPic"><tag parens="yes">1</tag></target>
 \end{equation}</tex-math>
         </disp-formula></p>
     </sec>

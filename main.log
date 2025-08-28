@@ -1,4 +1,4 @@
-This is AMS texml <https://github.com/AmerMathSoc/texml>  Thu Aug 28 18:38:59 2025
+This is AMS texml <https://github.com/AmerMathSoc/texml>  Thu Aug 28 18:49:01 2025
 **
 (main.tex (/home/runner/work/texml-with-github-actions/texml-with-github-actions/texml/bin/../lib/perl/TeX/Interpreter/FMT/laTeXML.fmt) (TeX::Interpreter::LaTeX
 Loading package 'LTfntcmd'
@@ -1284,11 +1284,8 @@ Entering <front>
 Exiting <front>
 Entering <body>
 section 1
-! Could not generate SVG: 'xelatex' failed!
-! Working files will be left in texml-svg-KS_YAA.
-main.tex, l. 25> 
-                     \end{tikzpicture}
-
+Wrote SVG file Images/imgfa9262243fe836a009d1b555c3b44123.svg
+File: Images/imgfa9262243fe836a009d1b555c3b44123.svg Graphic file (type image)
 
 LaTeX Warning: Label `tikzPic' multiply defined: changed from '{1}{1}{}{}{}' to '{1}{tikzPic}{disp-formula}{equation}'.
 
