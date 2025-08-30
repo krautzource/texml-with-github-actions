@@ -13,6 +13,7 @@ jobs:
           sudo chmod a+x ./texml/bin/texml
       - run: |
           # run texml
+          rm -f main.aux
           pdflatex main.tex
           ./texml/bin/texml main.tex
       - name: Set up Node.js
