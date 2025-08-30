@@ -23,8 +23,11 @@ jobs:
 
       - name: Install & run texml-to-html
         run: | 
+          cd build
           npm install @amermathsoc/texml-to-html
-          node ./node_modules/@amermathsoc/texml-to-html/examples/cli.js main.xml > main.html
+          cd ..
+          node ./build/node_modules/@amermathsoc/texml-to-html/examples/cli.js xml > main.html
+          rm -rf ./build
       - run: |
           # Commit
           git config user.name "github-actions[bot]"
