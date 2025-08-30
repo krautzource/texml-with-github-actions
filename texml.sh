@@ -25,14 +25,7 @@ apt install -y texlive \
 
 # install fonts (for svg generation)
 
-mkdir -p "$HOME/texmf"
-# cp -r ./fonts/ "$HOME/texmf"
-# cp -r ./fonts/ "$HOME"
 cp -r ./fonts/ "/usr/share/fonts/opentype/"
-# cp ./local.conf /etc/fonts/local.conf
-# texhash --version
-# texhash "$HOME/texmf"
-# texhash ./fonts
 fc-cache -fv
 
 # clone texml
