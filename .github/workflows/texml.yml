@@ -7,16 +7,15 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
-
       - name: Install texml
-        - run: |
-            sudo apt-get update -y
-            mkdir -p ./build
-            sudo sh ./texml.sh
-            cd build
-            git clone https://github.com/AmerMathSoc/texml.git
-            cp ./texml/cfg/texml.cfg.template ./texml/cfg/texml.cfg
-            chmod a+x ./build/texml/bin/texml
+        run: |
+          sudo apt-get update -y
+          mkdir -p ./build
+          sudo sh ./texml.sh
+          cd build
+          git clone https://github.com/AmerMathSoc/texml.git
+          cp ./texml/cfg/texml.cfg.template ./texml/cfg/texml.cfg
+          chmod a+x ./build/texml/bin/texml
       - name: Generated PDF and XML
         - run: |
             rm -f main.aux
