@@ -10,7 +10,7 @@ jobs:
           # Install texml
           sudo apt-get update -y
           sudo sh ./texml.sh
-          sudo chmod a+x ./texml/bin/texml
+          sudo chmod a+x ./build/texml/bin/texml
       - run: |
           # run texml
           rm -f main.aux
