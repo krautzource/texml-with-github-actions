@@ -10,7 +10,7 @@ jobs:
       - name: Install texml
         run: |
           sudo apt-get update -y
-          sudo sh ./texml.sh
+          sudo sh ./.github/workflows/texml.sh
           mkdir -p ./build
           cd build
           git clone https://github.com/AmerMathSoc/texml.git
