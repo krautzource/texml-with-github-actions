@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo $(pwd)
+# install package dependencies
 
-echo "install dependencies"
+apt update -y
 apt install -y texlive \
  texlive-extra-utils \
  texlive-xetex \

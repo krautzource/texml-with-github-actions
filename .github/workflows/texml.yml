@@ -9,7 +9,6 @@ jobs:
       - uses: actions/checkout@v5
       - name: Install texml
         run: |
-          sudo apt-get update -y
           sudo sh ./.github/workflows/texml.sh
           mkdir -p ./build
           cd build
