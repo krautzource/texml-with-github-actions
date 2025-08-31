@@ -1,6 +1,6 @@
-This is AMS texml <https://github.com/AmerMathSoc/texml>  Sat Aug 30 19:31:36 2025
+This is AMS texml <https://github.com/AmerMathSoc/texml>  Sun Aug 31 11:22:22 2025
 **
-(main.tex (/home/runner/work/texml-with-github-actions/texml-with-github-actions/texml/bin/../lib/perl/TeX/Interpreter/FMT/laTeXML.fmt) (TeX::Interpreter::LaTeX
+(main.tex (/home/runner/work/texml-with-github-actions/texml-with-github-actions/build/texml/bin/../lib/perl/TeX/Interpreter/FMT/laTeXML.fmt) (TeX::Interpreter::LaTeX
 Loading package 'LTfntcmd'
 (TeX::Interpreter::LaTeX::Package::LTfntcmd
 Package: LTfntcmd 
@@ -231,7 +231,7 @@ Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 Package graphics Info: Driver file: texml.def on input line 107.
-(./texml/lib/texmf/tex/latex/texml/texml.def
+(./build/texml/lib/texmf/tex/latex/texml/texml.def
 File: texml.def 2022/09/07 v1.0 Graphics/color driver for texml
 ))
 \Gin@nat@width=\dimen102
