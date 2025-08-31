@@ -10,18 +10,12 @@ jobs:
       - name: Install texml
         run: |
           sudo apt-get update -y
-          mkdir -p ./build
           sudo sh ./texml.sh
+          mkdir -p ./build
           cd build
           git clone https://github.com/AmerMathSoc/texml.git
           cp ./texml/cfg/texml.cfg.template ./texml/cfg/texml.cfg
           chmod a+x ./texml/bin/texml
-
-      - name: Generated PDF and XML
-        run: |
-          rm -f main.aux
-          pdflatex main.tex
-          ./build/texml/bin/texml main.tex
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -32,15 +26,20 @@ jobs:
         run: |
           cd build
           npm install @amermathsoc/texml-to-html
-          cd ..
 
+      - name: Generated PDF and XML
+        run: |
+          rm -f main.aux
+          pdflatex main.tex
+          ./build/texml/bin/texml main.tex
+  
       - name: Run texml-to-html
         run: |
           node ./build/node_modules/@amermathsoc/texml-to-html/examples/cli.js main.xml > main.html
-          rm -rf ./build
-      - name: Commit and push
+
+      - name: Clean-up and push
         run: |
-          # Commit
+          rm -rf ./build
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
