@@ -27,7 +27,7 @@ jobs:
           cd build
           npm install @amermathsoc/texml-to-html
           cd ..
-          node ./build/node_modules/@amermathsoc/texml-to-html/examples/cli.js xml > main.html
+          node ./build/node_modules/@amermathsoc/texml-to-html/examples/cli.js main.xml > main.html
           rm -rf ./build
       - run: |
           # Commit
