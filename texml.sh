@@ -29,7 +29,6 @@ cp -r ./fonts/ "/usr/share/fonts/opentype/"
 fc-cache -fv
 
 # clone texml
-mkdir -p ./build
 cd build
 git clone https://github.com/AmerMathSoc/texml.git
 cp ./texml/cfg/texml.cfg.template ./texml/cfg/texml.cfg

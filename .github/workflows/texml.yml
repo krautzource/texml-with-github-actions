@@ -9,6 +9,7 @@ jobs:
       - run: |
           # Install texml
           sudo apt-get update -y
+          mkdir -p ./build
           sudo sh ./texml.sh
           sudo chmod a+x ./build/texml/bin/texml
       - run: |
