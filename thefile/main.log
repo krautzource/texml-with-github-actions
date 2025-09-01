@@ -1,4 +1,4 @@
-This is AMS texml <https://github.com/AmerMathSoc/texml>  Mon Sep  1 09:09:38 2025
+This is AMS texml <https://github.com/AmerMathSoc/texml>  Mon Sep  1 14:35:43 2025
 **
 (main.tex (/home/runner/work/texml-with-github-actions/texml-with-github-actions/build/texml/bin/../lib/perl/TeX/Interpreter/FMT/laTeXML.fmt) (TeX::Interpreter::LaTeX
 Loading package 'LTfntcmd'
@@ -277,6 +277,16 @@ Loading package 'amssymb'
 (TeX::Interpreter::LaTeX::Package::amssymb
 Package: amssymb 
 )
+Loading package 'hyperref'
+(TeX::Interpreter::LaTeX::Package::hyperref
+Package: hyperref 
+Loading package 'url'
+(TeX::Interpreter::LaTeX::Package::url
+Package: url 
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip12
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)))
 Loading package 'tikz'
 (TeX::Interpreter::LaTeX::Package::tikz
 Package: tikz 
@@ -1281,13 +1291,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ))))) (main.aux)
-LaTeX Info: Redefining \overline on input line 9.
-LaTeX Info: The control sequence `\dddot' is already robust on input line 9.
-LaTeX Info: The control sequence `\ddddot' is already robust on input line 9.
-LaTeX Info: The control sequence `\overleftrightarrow' is already robust on input line 9.
-LaTeX Info: The control sequence `\underrightarrow' is already robust on input line 9.
-LaTeX Info: The control sequence `\underleftarrow' is already robust on input line 9.
-LaTeX Info: The control sequence `\underleftrightarrow' is already robust on input line 9.
+LaTeX Info: Redefining \overline on input line 10.
+LaTeX Info: The control sequence `\dddot' is already robust on input line 10.
+LaTeX Info: The control sequence `\ddddot' is already robust on input line 10.
+LaTeX Info: The control sequence `\overleftrightarrow' is already robust on input line 10.
+LaTeX Info: The control sequence `\underrightarrow' is already robust on input line 10.
+LaTeX Info: The control sequence `\underleftarrow' is already robust on input line 10.
+LaTeX Info: The control sequence `\underleftrightarrow' is already robust on input line 10.
 Entering <front>
 Exiting <front>
 Entering <body>
@@ -1295,8 +1305,9 @@ section 1
 Wrote SVG file Images/imgfa9262243fe836a009d1b555c3b44123.svg
 File: Images/imgfa9262243fe836a009d1b555c3b44123.svg Graphic file (type image)
 
-LaTeX Warning: Label `tikzPic' multiply defined: changed from '{1}{1}{}{}{}' to '{1}{tikzPic}{disp-formula}{equation}'.
+LaTeX Warning: Label `tikzPic' multiply defined: changed from '{1}{1}{Well hello there}{equation.1.1}{}' to '{1}{tikzPic}{disp-formula}{equation}'.
 
+File: ./Images/service-pnp-mrg-06100-06198v.jpg Graphic file (type image)
 Exiting <body>
 (main.aux)
 

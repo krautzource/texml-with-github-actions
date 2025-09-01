@@ -18,8 +18,8 @@
         </contrib>
       </contrib-group>
       <history>
-        <date date-type="xml-last-modified" iso-8601-date="2025-09-01T09:10:26Z">
-          <string-date>2025-09-01T09:10:26Z</string-date>
+        <date date-type="xml-last-modified" iso-8601-date="2025-09-01T14:36:30Z">
+          <string-date>2025-09-01T14:36:30Z</string-date>
         </date>
       </history>
     </article-meta>
@@ -34,6 +34,7 @@
   x = <inline-graphic height="86pt" mimetype="image/svg+xml" width="86pt" xlink:href="Images/imgfa9262243fe836a009d1b555c3b44123.svg"/> <target id="tikzPic"><tag parens="yes">1</tag></target>
 \end{equation}</tex-math>
         </disp-formula></p>
+      <fig id="ltxid4" specific-use="figure"><label>Figure 1<x>.</x></label><caption><p>An external graphic, Public domain <ext-link xlink:href="https://www.loc.gov/resource/mrg.06198/">https://www.loc.gov/resource/mrg.06198/</ext-link>https://www.loc.gov/resource/mrg.06198/</p></caption><graphic height="0pt" mimetype="image/jpeg" width="0pt" xlink:href="Images/service-pnp-mrg-06100-06198v.jpg"><alt-text>A photo of a minigolf obstacle consisting of a pair of large, red dice.</alt-text></graphic> </fig>
     </sec>
   </body>
 </article>
