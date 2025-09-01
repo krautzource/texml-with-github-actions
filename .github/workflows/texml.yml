@@ -31,7 +31,7 @@ jobs:
           cd ./thefile
           rm -f main.aux
           pdflatex main.tex
-          ./build/texml/bin/texml main.tex
+          ../build/texml/bin/texml main.tex
   
       - name: Run texml-to-html
         run: |
