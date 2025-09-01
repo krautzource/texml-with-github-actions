@@ -26,15 +26,16 @@ jobs:
           cd build
           npm install @amermathsoc/texml-to-html
 
-      - name: Generated PDF and XML
+      - name: Generate PDF and XML
         run: |
+          cd ./thefile
           rm -f main.aux
           pdflatex main.tex
           ./build/texml/bin/texml main.tex
   
       - name: Run texml-to-html
         run: |
-          node ./build/node_modules/@amermathsoc/texml-to-html/examples/cli.js main.xml > main.html
+          node ./build/node_modules/@amermathsoc/texml-to-html/examples/cli.js ./thefile/main.xml > ./thefile/main.html
 
       - name: Clean-up and push
         run: |
