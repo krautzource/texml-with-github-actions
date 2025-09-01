@@ -1,4 +1,4 @@
-This is AMS texml <https://github.com/AmerMathSoc/texml>  Sun Aug 31 11:48:25 2025
+This is AMS texml <https://github.com/AmerMathSoc/texml>  Mon Sep  1 09:09:38 2025
 **
 (main.tex (/home/runner/work/texml-with-github-actions/texml-with-github-actions/build/texml/bin/../lib/perl/TeX/Interpreter/FMT/laTeXML.fmt) (TeX::Interpreter::LaTeX
 Loading package 'LTfntcmd'
@@ -231,9 +231,10 @@ Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 Package graphics Info: Driver file: texml.def on input line 107.
-(./build/texml/lib/texmf/tex/latex/texml/texml.def
-File: texml.def 2022/09/07 v1.0 Graphics/color driver for texml
-))
+
+! LaTeX Error: File `texml.def' not found: Continuing without it.
+
+)
 \Gin@nat@width=\dimen102
 \Gin@nat@height=\dimen103
 )
@@ -1264,8 +1265,15 @@ Package xcolor Warning: Package option `fixpdftex' is obsolete and ignored on in
                                                                    \ProcessKeyOptions
 
 Package xcolor Info: Driver file: texml.def on input line 274.
+
+! LaTeX Error: File `texml.def' not found: Continuing without it.
+
+Package xcolor Info: Model `rgb' substituted by `ignore' on input line 1346.
+Package xcolor Info: Model `cmyk' substituted by `rgb' on input line 1347.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `gray' substituted by `rgb' on input line 1367.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
